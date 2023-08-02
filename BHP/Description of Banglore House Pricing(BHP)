@@ -1,0 +1,18 @@
+Project Description: Bangalore House Price Prediction User Interface
+
+Introduction:
+The Bangalore House Price Prediction User Interface project aims to provide users with a seamless and user-friendly platform to predict house prices in Bangalore, India. 
+The project utilizes a machine learning model that is trained on historical real estate data to predict the price of a house based on various input features. 
+The development of the project involves three main components: model building using Jupyter Notebook, a server-side implementation using Python Flask, and a front-end interface using HTML, CSS, and JavaScript.
+
+Key Features:
+1.) Machine Learning Model:
+The foundation of this project lies in the creation of an accurate and robust machine learning model. The model is developed using Jupyter Notebook, which facilitates exploratory data analysis, 
+data preprocessing, feature engineering, and the selection of an appropriate regression algorithm. The model is trained on a comprehensive dataset that includes features like the area of the house,
+location, number of bedrooms, bathrooms that affect house prices.
+
+2.) Python Flask Server:
+To provide the prediction functionality to users, a Python Flask server is employed. Flask is a lightweight web framework that allows seamless integration with the machine learning model. The server handles incoming requests from the front-end and returns the predicted house prices based on the provided input features. It acts as an interface between the machine learning model and the user interface, ensuring efficient communication and real-time responses.
+
+.3) User Interface:
+The user interface is developed using HTML, CSS, and JavaScript to create an intuitive and visually appealing platform. The front-end allows users to input the necessary details of the house they want to predict, such as the area, location, number of bedrooms, and bathrooms. Users can easily interact with the interface to view the predicted price for their selected property.
