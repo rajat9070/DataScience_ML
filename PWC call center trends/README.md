@@ -74,12 +74,12 @@ Shows visualizations from Call Center Trends :
 
 | Call Centre Trends (Overview) |
 | ----------- |
-| ![PWC Task 1 - Call Centre Dashboard-1](https://user-images.githubusercontent.com/118357991/227767359-463d93ee-5436-4f6a-ab7d-705c11d0dfbf.png) |
+| ![PWC call center trends](https://github.com/rajat9070/DataScience_ML/blob/main/PWC%20call%20center%20trends/Agent%20Performance.JPG?raw=true) |
 
 
 | Call Centre Trends (Agent's Performance) |
 | ----------- |
-| ![PWC Task 1 - Call Centre Dashboard-2](https://user-images.githubusercontent.com/118357991/227767508-8667b273-6a78-40fa-bc20-78fc88c155cc.png) |
+| ![PWC call center trends](https://github.com/rajat9070/DataScience_ML/blob/main/PWC%20call%20center%20trends/Agent%20Performance.JPG?raw=true) |
 
 ## Insights :
 
