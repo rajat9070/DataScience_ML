@@ -1,5 +1,4 @@
 # PWC Power BI Virtual work experience- Call Centre Trends
-![PwC Power BI Virtual Case Experience (1)](https://user-images.githubusercontent.com/118357991/227764081-750f7560-c9f7-4563-9cb3-74186769cb42.png)
 
 ## Table of Contents :
 
@@ -74,7 +73,7 @@ Shows visualizations from Call Center Trends :
 
 | Call Centre Trends (Overview) |
 | ----------- |
-| ![PWC call center trends](https://github.com/rajat9070/DataScience_ML/blob/main/PWC%20call%20center%20trends/Agent%20Performance.JPG?raw=true) |
+| ![PWC call center trends](https://github.com/rajat9070/DataScience_ML/blob/main/PWC%20call%20center%20trends/Overview.JPG?raw=true) |
 
 
 | Call Centre Trends (Agent's Performance) |
